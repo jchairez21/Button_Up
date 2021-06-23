@@ -1,0 +1,31 @@
+.btn-search {
+  display: block;
+  margin-bottom: 50px;
+  height: 40px;
+  width: 205px;
+  border-radius: 20px;
+  color: #30a7a9;
+  border: 2px solid #30a7a9;
+  font-weight: 900;
+  background-color: #fff;
+}
+.btn-add {
+  display: block;
+  margin-bottom: 50px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #1be4e4;
+  border: none;
+}
+.btn-primary {
+  display: block;
+  margin-bottom: 50px;
+  height: 40px;
+  width: 300px;
+  background-color: #2b78e4;
+  color: #fff;
+  border: 3px solid #000;
+  box-shadow: 3px 3px black;
+}
